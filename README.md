@@ -32,3 +32,14 @@ CREDITS TO "Readme Stats" (https://github.com/anuraghazra/github-readme-stats)
         </td>
     </tr>
 </table>
+
+***
+
+# Hi there! 👋
+## I'm a passionate developer who wishes to help society flurish even more!
+ - 🚀 Woking hard to improve myself and become a better developper everyday
+ - 🌱 Making tough and effective solutions designed for continuous improvement
+ - 🤝 Currently looking to contribute more to open source projects
+
+## “Never stop learning, because life will never stop teaching.”
+> *Learning something new is like a coconut, it is hard and a bit messy from outside, but once it opens up it bring a lot of sweet juice and fruit inside. Whenever we are asked to learn something new, a panic monster or a zombie gets over us to let us know that “No, no you can never do it”, but once you get over that feeling you’ll definitely enter an incredible world of new ideas and plan, it will enhance your character, your knowledge and on a bigger perspective your personality.*
