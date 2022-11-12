@@ -7,11 +7,14 @@ CREDITS TO "Readme Stats" (https://github.com/anuraghazra/github-readme-stats)
             <h2 align="center">References</h2>
             <ul>
                 <li>PRAC (<i>Practice from courses</i>)</li>
-                <li>MOB (<i>Mobile Application</i>)</li>
-                <li>WEB (<i>Web Application</i>)</li>
+                <li>MNP (<i>Manning Project</i>)</li>
+                <li>OCP (<i>OpenClassrooms Project</i>)</li>
+                <li>TUI (<i>Text-based User Interface</i>)</li>
                 <li>GUI (<i>Graphical User Interface</i>)</li>
-                <li>MSA (<i>Microservice Based Architecture</i>)</li>
+                <li>WEB (<i>Web Application</i>)</li>
+                <li>MOB (<i>Mobile Application</i>)</li>
                 <li>API (<i>Application Programming Interface</i>)</li>
+                <li>MSA (<i>Microservice Based Architecture</i>)</li>
                 <li>ETL (<i>Extract, Transform, Load</i>)</li>
             </ul>
             <br />
